@@ -44,6 +44,15 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [Echidna](https://github.com/crytic/echidna)
 - [Slither](https://github.com/crytic/slither)
 
+## YouTube
+
+- [Andy Li](https://www.youtube.com/@andyli)
+- [D-Squared](https://www.youtube.com/@d-squared70)
+- [Jesper Kristensen (jtk.eth)](https://www.youtube.com/@cryptojesperk)
+- [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
+- [yAcademy](https://www.youtube.com/@yacademyDAO)
+- [Yul Opcodes](https://www.youtube.com/@yulopcodes)
+
 ## EVM Gods
 
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
