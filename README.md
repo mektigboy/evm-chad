@@ -22,6 +22,8 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ### Libraries
 
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [PRBMath](https://github.com/paulrberg/prb-math)
 - [Solady](https://github.com/Vectorized/solady)
 - [Solmate](https://github.com/transmissions11/solmate)
 
