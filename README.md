@@ -59,9 +59,10 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 ## EVM Gods
 
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
+- [@Mudit__Gupta](https://twitter.com/Mudit__Gupta)
 - [@optimizoor](https://twitter.com/optimizoor)
 - [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
 - [@samczsun](https://twitter.com/samczsun)
 - [@transmissions11](https://twitter.com/transmissions11)
-- [https://twitter.com/trust__90](https://twitter.com/trust__90)
+- [@trust__90](https://twitter.com/trust__90)
 - [@w1nt3r_eth](https://twitter.com/w1nt3r_eth)
