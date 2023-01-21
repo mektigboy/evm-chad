@@ -44,4 +44,5 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [@optimizoor](https://twitter.com/optimizoor)
 - [@samczsun](https://twitter.com/samczsun)
 - [@transmissions11](https://twitter.com/transmissions11)
+- [https://twitter.com/trust__90](https://twitter.com/trust__90)
 - [@w1nt3r_eth](https://twitter.com/w1nt3r_eth)
