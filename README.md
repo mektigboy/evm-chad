@@ -11,3 +11,4 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 ## Smart Contract Developing
 
 ## Smart Contract Auditing
+- [Pashov's Audits](https://github.com/pashov/audits)
