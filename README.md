@@ -32,6 +32,8 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## Smart Contract Auditing
 
+- [Solcurity](https://github.com/transmissions11/solcurity)
+
 ### Secureum
 
 - [Ethereum 101](https://secureum.substack.com/p/ethereum-101)
