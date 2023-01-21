@@ -1,4 +1,4 @@
-# EVM
+# EVM Chad
 
 A curated list of the hottest and most fresh resources to become an EVM chad.
 
