@@ -10,6 +10,11 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## DeFi
 
+## EIPs
+
+- [PEEPanEIP #19: EIP-3156: Flash Loans with Alberto Cuesta Cañada](https://www.youtube.com/watch?v=R9wQ1FoV6HU)
+- [PEEPanEIP#60: EIP-1967: Standard Proxy Storage Slots with Hadrien Croubois](https://www.youtube.com/watch?v=JEt3dBHB73U)
+
 ## Solidity
 
 Deconstructing a Solidity Contract:
