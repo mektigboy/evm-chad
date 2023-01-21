@@ -17,6 +17,8 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## Smart Contract Developing
 
+### Libraries
+
 ## Smart Contract Auditing
 
 ### Secureum
@@ -32,3 +34,9 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ### Audits
 - [Pashov's Audits](https://github.com/pashov/audits)
+
+## EVM Gods
+
+
+- [@optimizoor](https://twitter.com/optimizoor)
+- [@transmissions11](https://twitter.com/transmissions11)
