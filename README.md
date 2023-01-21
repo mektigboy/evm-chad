@@ -4,7 +4,10 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## EVM
 
+## DeFi
+
 ## Solidity
+
 - [Solidity Tutorial: All About Stack](https://jeancvllr.medium.com/solidity-tutorial-all-about-stack-c1ec6070fe60)
 - [Solidity Tutorial: All About Calldata](https://betterprogramming.pub/solidity-tutorial-all-about-calldata-aebbe998a5fc)
 - [Solidity Tutorial: All About Memory](https://betterprogramming.pub/solidity-tutorial-all-about-memory-1e1696d71ee4)
