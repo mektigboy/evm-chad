@@ -19,6 +19,9 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ### Libraries
 
+- [Solady](https://github.com/Vectorized/solady)
+- [Solmate](https://github.com/transmissions11/solmate)
+
 ## Smart Contract Auditing
 
 ### Secureum
@@ -33,6 +36,7 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [Audit Findings 201](https://secureum.substack.com/p/audit-findings-201)
 
 ### Audits
+
 - [Pashov's Audits](https://github.com/pashov/audits)
 
 ## EVM Gods
