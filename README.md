@@ -37,6 +37,7 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## EVM Gods
 
-
+- [@samczsun](https://twitter.com/samczsun)
 - [@optimizoor](https://twitter.com/optimizoor)
+- [@samczsun](https://twitter.com/samczsun)
 - [@transmissions11](https://twitter.com/transmissions11)
