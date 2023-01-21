@@ -39,6 +39,11 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 - [Pashov's Audits](https://github.com/pashov/audits)
 
+### Tools
+
+- [Echidna](https://github.com/crytic/echidna)
+- [Slither](https://github.com/crytic/slither)
+
 ## EVM Gods
 
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
