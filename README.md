@@ -74,3 +74,5 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [@transmissions11](https://twitter.com/transmissions11)
 - [@trust__90](https://twitter.com/trust__90)
 - [@w1nt3r_eth](https://twitter.com/w1nt3r_eth)
+
+## Books
