@@ -5,6 +5,7 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 ## EVM
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Ethereum Beigepaper](https://github.com/chronaeon/beigepaper)
 
 ## DeFi
 
