@@ -34,6 +34,10 @@ Solidity Tutorial:
 - [Solidity Tutorial: All About Data Locations - Storage](https://jeancvllr.medium.com/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
 - [Solidity Tutorial: All About Data Locations](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471)
 
+## Yul & Inline Assembly
+
+- [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
+
 ### Extra
 
 - [Learn Assembly Language Programming With ARM](https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/)
