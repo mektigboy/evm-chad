@@ -10,6 +10,8 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 ## DeFi
 
+- [Guide To Decentralized Finance](https://finematics.com/guide-to-decentralized-finance)
+
 ## EIPs
 
 - [PEEPanEIP #19: EIP-3156: Flash Loans with Alberto Cuesta Cañada](https://www.youtube.com/watch?v=R9wQ1FoV6HU)
@@ -19,12 +21,12 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 Deconstructing a Solidity Contract:
 
-- [Deconstructing a Solidity Contract —Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
-- [Deconstructing a Solidity Contract — Part II: Creation vs. Runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c/)
-- [Deconstructing a Solidity Contract — Part III: The Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
-- [Deconstructing a Solidity Contract — Part IV: Function Wrappers](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed/)
-- [Deconstructing a Solidity Contract — Part V: Function Bodies](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed/)
-- [Deconstructing a Solidity Contract — Part VI: The Metadata Hash](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef/)
+- [Deconstructing a Solidity Contract —Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
+- [Deconstructing a Solidity Contract — Part II: Creation vs. Runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c)
+- [Deconstructing a Solidity Contract — Part III: The Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
+- [Deconstructing a Solidity Contract — Part IV: Function Wrappers](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
+- [Deconstructing a Solidity Contract — Part V: Function Bodies](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
+- [Deconstructing a Solidity Contract — Part VI: The Metadata Hash](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
 
 Solidity Tutorial:
 
@@ -40,7 +42,7 @@ Solidity Tutorial:
 
 ### Extra
 
-- [Learn Assembly Language Programming With ARM](https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/)
+- [Learn Assembly Language Programming With ARM](https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm)
 
 ## Smart Contract Developing
 
