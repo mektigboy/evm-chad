@@ -54,6 +54,7 @@ Solidity Tutorial:
 ## Smart Contract Auditing
 
 - [Solcurity](https://github.com/transmissions11/solcurity)
+- [Solidity Smart Contract Security By Example](https://www.serial-coder.com/posts)
 
 ### Secureum
 
