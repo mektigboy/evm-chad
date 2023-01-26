@@ -110,3 +110,5 @@ Solidity Tutorial:
 - [@w1nt3r_eth](https://twitter.com/w1nt3r_eth)
 
 ## Books
+
+- [Proof of Stake](https://www.amazon.com/Proof-Stake-Ethereum-Philosophy-Blockchains/dp/164421248X/ref=sr_1_1?crid=KINJ9KKF9Y0&keywords=proof+of+stake&qid=1674693236&sprefix=proof+of+stake%2Caps%2C141&sr=8-1)
