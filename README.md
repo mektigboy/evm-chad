@@ -46,6 +46,8 @@ Solidity Tutorial:
 
 ## Smart Contract Developing
 
+- [Foundry](https://book.getfoundry.sh/)
+
 ### Libraries
 
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
