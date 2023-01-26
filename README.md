@@ -111,4 +111,6 @@ Solidity Tutorial:
 
 ## Books
 
+- [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_1?keywords=cryptoassets&qid=1674693323&sprefix=cryptoas%2Caps%2C141&sr=8-1)
 - [Proof of Stake](https://www.amazon.com/Proof-Stake-Ethereum-Philosophy-Blockchains/dp/164421248X/ref=sr_1_1?crid=KINJ9KKF9Y0&keywords=proof+of+stake&qid=1674693236&sprefix=proof+of+stake%2Caps%2C141&sr=8-1)
+- [The Basics of Bitcoins and Blockchains](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1642506737/ref=sr_1_29?crid=2832PD98MM4O0&keywords=blockchain&qid=1674693290&sprefix=blockchain%2Caps%2C145&sr=8-29)
