@@ -21,12 +21,20 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 Deconstructing a Solidity Contract:
 
-- [Deconstructing a Solidity Contract —Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
+- [Deconstructing a Solidity Contract — Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
 - [Deconstructing a Solidity Contract — Part II: Creation vs. Runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c)
 - [Deconstructing a Solidity Contract — Part III: The Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
 - [Deconstructing a Solidity Contract — Part IV: Function Wrappers](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
 - [Deconstructing a Solidity Contract — Part V: Function Bodies](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
 - [Deconstructing a Solidity Contract — Part VI: The Metadata Hash](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
+
+EVM Deep Dives: 
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 2](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea)
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 4](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5)
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 5](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f)
+- [Evm Deep Dives: The Path to Shadowy Super Coder - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
 
 Solidity Tutorial:
 
