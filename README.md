@@ -65,6 +65,8 @@ Solidity Tutorial:
 
 ## Smart Contract Auditing
 
+- [Encyclopedia of Common Solidity Bugs](https://lab.guardianaudits.com/encyclopedia-of-common-solidity-bugs)
+- [Encyclopedia of Solidity Attack Vectors](https://lab.guardianaudits.com/encyclopedia-of-solidity-attack-vectors)
 - [Solcurity](https://github.com/transmissions11/solcurity)
 - [Solidity Smart Contract Security By Example](https://www.serial-coder.com/posts)
 - [The Auditors Handbook](https://lab.guardianaudits.com/the-auditors-handbook)
