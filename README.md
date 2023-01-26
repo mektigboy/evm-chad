@@ -57,6 +57,7 @@ Solidity Tutorial:
 
 - [Solcurity](https://github.com/transmissions11/solcurity)
 - [Solidity Smart Contract Security By Example](https://www.serial-coder.com/posts)
+- [The Auditors Handbook](https://lab.guardianaudits.com/the-auditors-handbook)
 
 ### Secureum
 
