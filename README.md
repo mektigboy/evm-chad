@@ -7,6 +7,8 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum Beige Paper](https://github.com/chronaeon/beigepaper)
+- [The Ethereum Virtual Machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine)
+
 
 ## DeFi
 
@@ -29,6 +31,7 @@ Deconstructing a Solidity Contract:
 - [Deconstructing a Solidity Contract — Part VI: The Metadata Hash](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
 
 EVM Deep Dives: 
+
 - [Evm Deep Dives: The Path to Shadowy Super Coder - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
 - [Evm Deep Dives: The Path to Shadowy Super Coder - Part 2](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 - [Evm Deep Dives: The Path to Shadowy Super Coder - Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea)
