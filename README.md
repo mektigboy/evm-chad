@@ -103,6 +103,7 @@ Solidity Tutorial:
 
 ## EVM Gods
 
+- [@cmichelio](https://twitter.com/cmichelio)
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
 - [@DeGatchi](https://twitter.com/DeGatchi)
 - [@Mudit__Gupta](https://twitter.com/Mudit__Gupta)
