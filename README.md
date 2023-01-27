@@ -63,8 +63,9 @@ Solidity Tutorial:
 - [Solady](https://github.com/Vectorized/solady)
 - [Solmate](https://github.com/transmissions11/solmate)
 
-## Smart Contract Auditing
+## Smart Contract Hacking
 
+- [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
 - [Encyclopedia of Common Solidity Bugs](https://lab.guardianaudits.com/encyclopedia-of-common-solidity-bugs)
 - [Encyclopedia of Solidity Attack Vectors](https://lab.guardianaudits.com/encyclopedia-of-solidity-attack-vectors)
 - [Solcurity](https://github.com/transmissions11/solcurity)
