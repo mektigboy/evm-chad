@@ -9,7 +9,6 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 - [Ethereum Beige Paper](https://github.com/chronaeon/beigepaper)
 - [The Ethereum Virtual Machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine)
 
-
 ## DeFi
 
 - [Guide To Decentralized Finance](https://finematics.com/guide-to-decentralized-finance)
@@ -85,6 +84,10 @@ Solidity Tutorial:
 - [Audit Techniques & Tools 101](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 - [Audit Findings 101](https://secureum.substack.com/p/audit-findings-101)
 - [Audit Findings 201](https://secureum.substack.com/p/audit-findings-201)
+
+### CTFs
+
+- [QuillCTF](https://quillctf.super.site)
 
 ### Audits
 
