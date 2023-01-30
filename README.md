@@ -45,6 +45,7 @@ Solidity Tutorial:
 - [Solidity Tutorial: All About Memory](https://betterprogramming.pub/solidity-tutorial-all-about-memory-1e1696d71ee4)
 - [Solidity Tutorial: All About Data Locations - Storage](https://jeancvllr.medium.com/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
 - [Solidity Tutorial: All About Data Locations](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471)
+- [Solidity Tutorial: All About Code](https://jeancvllr.medium.com/solidity-tutorial-all-about-code-10889b88632f)
 
 ## Yul & Inline Assembly
 
