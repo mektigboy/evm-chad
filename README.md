@@ -57,8 +57,9 @@ Solidity Tutorial:
 
 ## Smart Contract Developing
 
-- [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
 - [Foundry](https://book.getfoundry.sh/)
+- [Huff](https://huff.sh/)
+- [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
 
 ### Libraries
 
