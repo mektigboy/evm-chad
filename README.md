@@ -58,6 +58,8 @@ Solidity Tutorial:
 ## Smart Contract Developing
 
 - [Foundry](https://book.getfoundry.sh/)
+- [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
+- [Hardhat](https://hardhat.org/))
 - [Huff](https://huff.sh/)
 - [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
 
