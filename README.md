@@ -76,6 +76,7 @@ Solidity Tutorial:
 - [Solcurity](https://github.com/transmissions11/solcurity)
 - [Solidity Smart Contract Security By Example](https://www.serial-coder.com/posts)
 - [The Auditors Handbook](https://lab.guardianaudits.com/the-auditors-handbook)
+- [Echidna Streaming Workshop](https://github.com/crytic/echidna-streaming-series)
 
 ### Secureum
 
@@ -116,6 +117,7 @@ Solidity Tutorial:
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
 - [@DeGatchi](https://twitter.com/DeGatchi)
 - [@Mudit__Gupta](https://twitter.com/Mudit__Gupta)
+- [@nox
 - [@optimizoor](https://twitter.com/optimizoor)
 - [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
 - [@refcells](https://twitter.com/refcells)
