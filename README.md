@@ -117,7 +117,6 @@ Solidity Tutorial:
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
 - [@DeGatchi](https://twitter.com/DeGatchi)
 - [@Mudit__Gupta](https://twitter.com/Mudit__Gupta)
-- [@nox
 - [@optimizoor](https://twitter.com/optimizoor)
 - [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
 - [@refcells](https://twitter.com/refcells)
