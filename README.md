@@ -116,6 +116,7 @@ Solidity Tutorial:
 - [@cmichelio](https://twitter.com/cmichelio)
 - [@DCbuild3er](https://twitter.com/DCbuild3r)
 - [@DeGatchi](https://twitter.com/DeGatchi)
+- [@devtooligan](https://twitter.com/devtooligan)
 - [@Mudit__Gupta](https://twitter.com/Mudit__Gupta)
 - [@optimizoor](https://twitter.com/optimizoor)
 - [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
@@ -124,6 +125,7 @@ Solidity Tutorial:
 - [@tinchoabbate](https://twitter.com/tinchoabbate)
 - [@transmissions11](https://twitter.com/transmissions11)
 - [@trust__90](https://twitter.com/trust__90)
+- [@vex_0x](https://twitter.com/vex_0x)
 - [@w1nt3r_eth](https://twitter.com/w1nt3r_eth)
 
 ## Books
