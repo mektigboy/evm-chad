@@ -50,6 +50,7 @@ Solidity Tutorial:
 ## Yul & Inline Assembly
 
 - [Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef)
+- [Solidity and EVM: Bit Shifting and Masking in Assembly(YUL)](https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a)
 
 ### Extra
 
