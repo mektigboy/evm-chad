@@ -24,9 +24,9 @@ Deconstructing a Solidity Contract:
 
 - [Deconstructing a Solidity Contract — Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
 - [Deconstructing a Solidity Contract — Part II: Creation vs. Runtime](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c)
-- [Deconstructing a Solidity Contract — Part III: The Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
+- [Deconstructing a Solidity Contract — Part III: The Function Selector](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49)
 - [Deconstructing a Solidity Contract — Part IV: Function Wrappers](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
-- [Deconstructing a Solidity Contract — Part V: Function Bodies](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iv-function-wrappers-d8e46672b0ed)
+- [Deconstructing a Solidity Contract — Part V: Function Bodies](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-v-function-bodies-2d19d4bef8be)
 - [Deconstructing a Solidity Contract — Part VI: The Metadata Hash](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
 
 EVM Deep Dives: 
