@@ -46,6 +46,7 @@ Solidity Tutorial:
 - [Solidity Tutorial: All About Data Locations - Storage](https://jeancvllr.medium.com/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
 - [Solidity Tutorial: All About Data Locations](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471)
 - [Solidity Tutorial: All About Code](https://jeancvllr.medium.com/solidity-tutorial-all-about-code-10889b88632f)
+- [Solidity Tutorial: All About Try / Catch](https://medium.com/@jeancvllr/solidity-all-about-try-catch-c59507d7d7d5)
 
 ## Yul & Inline Assembly
 
@@ -60,7 +61,7 @@ Solidity Tutorial:
 
 - [Foundry](https://book.getfoundry.sh/)
 - [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
-- [Hardhat](https://hardhat.org/))
+- [Hardhat](https://hardhat.org/)
 - [Huff](https://huff.sh/)
 - [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
 
