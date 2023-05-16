@@ -6,6 +6,7 @@ A curated list of the hottest and most fresh resources to become an EVM chad.
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Beige Paper](https://github.com/chronaeon/beigepaper)
 - [The Ethereum Virtual Machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine)
 
