@@ -72,6 +72,7 @@ Solidity Tutorial:
 - [PRBMath](https://github.com/paulrberg/prb-math)
 - [Solady](https://github.com/Vectorized/solady)
 - [Solmate](https://github.com/transmissions11/solmate)
+- [Snekmate](https://github.com/pcaversaccio/snekmate)
 
 ## Smart Contract Hacking
 
